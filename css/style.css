@@ -274,6 +274,34 @@ body {
     text-align: right;
 }
 
+footer {
+    background-color: #1c222e;
+}
+
+footer img {
+    margin: 100px;
+}
+
+#copyright a {
+    color: #8D8D8D !important;
+    font-size: 15px;
+}
+
+.redes i {
+    background-color: #464646;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 100%;
+    color: #CBCBCB;
+    font-size: 15px
+}
+
+.redes a :hover {
+    background-color: #ff5a2d;
+}
+
 
 /*
 last-child
